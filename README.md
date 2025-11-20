@@ -1,4 +1,4 @@
-# FastAPI BookStore  
+# FastAPI Biblioteca 
 Uma API simples para gerenciamento de livros usando **FastAPI**, **JSON local** e rotas REST básicas.  
 Ideal para estudos, aprendizado ou como base para projetos maiores.
 
